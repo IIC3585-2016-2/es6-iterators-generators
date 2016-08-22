@@ -10,7 +10,9 @@ Ejemplos
 --------
 En el directorio de [ejemplos](./examples) se encuentran disponibles tanto los ejemplos para Iterators como aquellos para generators. Estos pueden ejecutarse usando Node.js en su versión más reciente:
 
-  $ node ejemplo1.js
+```
+$ node ejemplo1.js
+```
 
 La descripción de cada uno de los ejemplos puede encontrarse en las Slides del tópico, pero de todas formas cada uno de los ejemplos se encuentra comentado y explicado.
 
